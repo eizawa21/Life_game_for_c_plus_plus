@@ -29,11 +29,11 @@ C++でライフゲームを作成した、初期配列はランダムでC++の�
 ## ダウンロード
 gitコマンドがインストールされているなら、以下のコマンドでダウンロードできる。
 
-$ git clone https\\:gihhub\eizawa21
+$ git clone https://github.com/eizawa21/Life_game_for_c_plis_plus.git
 
 ダウンロード後に Life_game_for_c_plis_plus というディレクトリができているのを確認する。
 
-$ cd Life_game_for_c_plis_plus/
+$ cd Life_game_for_c_plis_plus
 
 Life_game_for_c_plis_plusディレクトリ内に移動したら、lsコマンドで以下のファイルがあるか確認。
 
@@ -73,7 +73,7 @@ $ ./life_game
 入力した数値の世代まで進めばプログラム終了になる。
 
 ## 注意事項
-画面の解像度が低かったり、文字が大きいと画面にうまく表示出来ないことがある。
+画面の解像度が低かったり、文字が大きいと画面にうまく表示出来ないことがある。\
 その場合は解像度や、文字の大きさを調整してほしい。
 
 ## 開発者
