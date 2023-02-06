@@ -29,13 +29,13 @@ C++でライフゲームを作成した、初期配列はランダムでC++の�
 ## ダウンロード
 gitコマンドがインストールされているなら、以下のコマンドでダウンロードできる。
 
-$ git clone https://github.com/eizawa21/Life_game_for_c_plis_plus.git
+$ git clone https://github.com/eizawa21/Life_game_for_c_plus_plus.git
 
-ダウンロード後に Life_game_for_c_plis_plus というディレクトリができているのを確認する。
+ダウンロード後に Life_game_for_c_plus_plus というディレクトリができているのを確認する。
 
-$ cd Life_game_for_c_plis_plus
+$ cd Life_game_for_c_plus_plus
 
-Life_game_for_c_plis_plusディレクトリ内に移動したら、lsコマンドで以下のファイルがあるか確認。
+Life_game_for_c_plus_plusディレクトリ内に移動したら、lsコマンドで以下のファイルがあるか確認。
 
 $ ls\
   main.cpp
